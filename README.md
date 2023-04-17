@@ -1,8 +1,7 @@
 # The Celastraceae set
 
-This repository gathers scripts used for the paper _"Liquid chromatography high-resolution mass spectrometry data for the study of the specialized metabolome of a set of plants from the Celastraceae family."_
-
-#### -- Project Status: [Active]
+[](/img/Celastraceae_AI.png)
+This repository gathers scripts used for the paper _"UHPLC-HRMS/MS Untargeted Metabolomic Profiling of a Set of Natural Extracts from Celastraceae Family"_
 
 ## Intro 
 
@@ -30,6 +29,7 @@ Their exploration makes the object of the current Data Descriptor.
 ### Technologies
 
 * Python
+* R
 
 ## Project Abstract 
 > 
@@ -41,7 +41,20 @@ Their exploration makes the object of the current Data Descriptor.
 
 Raw Data are available in the the MassIVE repository [MSV000087970](https://doi.org/doi:10.25345/C5PJ9N).
 
+<!-- toc -->
+
 ## Publication examples
+
+##### Fig 2.B.1 [**Ion map for the Pristimera indica roots extract**](/img/chromato2D_ID.html)
+
+### 2. [**Getting started**](getting-started.md) 
+
+### 3. [**Configurations and running**](configuration-options.md)
+
+### 4. [**Publication images**](Publication_images.md)
+
+<!-- tocstop -->
+
 
 
 ## Contributors
