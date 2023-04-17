@@ -1,0 +1,29 @@
+title: "Inventa"
+description: " a computational tool to discover chemical novelty in natural  extracts libraries"
+logo: /assets/img/logo.png
+
+
+subtitle: "Version 1.0.0"
+name: Luis Quiros-Guerrero
+email: luis.guerrero@unige.ch
+
+
+repository: "luigiquiros/inventa"
+
+[**Publication available here**](https://www.frontiersin.org/articles/10.3389/fmolb.2022.1028334/full?utm_source=F-NTF&utm_medium=EMLX&utm_campaign=PRD_FEOPS_20170000_ARTICLE)
+
+#building 
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - installation.md
+  - configuration-options.md
+  - workflow.md
+  - getting-started.md
