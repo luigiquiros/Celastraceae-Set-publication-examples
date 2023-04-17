@@ -1,4 +1,5 @@
-[**The Celastraceae set**](/img/Celastraceae_AI.png)
+
+(/img/Celastraceae_AI.png)
 
 This repository gathers scripts used for the datanote paper _"UHPLC-HRMS/MS Untargeted Metabolomic Profiling of a Set of Natural Extracts from Celastraceae Family"_
 
@@ -39,9 +40,9 @@ Raw Data are available in the the MassIVE repository [MSV000087970](https://doi.
 
 ## Publication interactive images
 
-### Fig 3 [**Celastraceae Set Interactive Sunburstplot in POSITIVE Ionization Mode**](/img/Celastracea_sunburst_pos.html)
+### Fig 3 [**Celastraceae Set Interactive Sunburstplot in POSITIVE Ionization Mode**](/img/Celastraceae_sunburst_pos.html)
 
-### Fig 3 [**Celastraceae Set Interactive Sunburstplot in NEGATIVE Ionization Mode**](/img/Celastracea_sunburst_neg.html)
+### Fig 3 [**Celastraceae Set Interactive Sunburstplot in NEGATIVE Ionization Mode**](/img/Celastraceae_sunburst_neg.html)
 
 ### Fig 4.A [**TMAP Visualization of Annotation Coverage in POSITIVE Ionization Mode**](/img/Celastraceae_annotation_vs_lotusdnp_tmap_2.html)
 
