@@ -1,5 +1,4 @@
-
-(/img/Celastraceae_AI.png)
+** The Celastraceae Set **
 
 This repository gathers scripts used for the datanote paper _"UHPLC-HRMS/MS Untargeted Metabolomic Profiling of a Set of Natural Extracts from Celastraceae Family"_
 
