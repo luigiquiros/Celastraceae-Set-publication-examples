@@ -55,9 +55,9 @@ Raw Data are available in the the MassIVE repository [MSV000087970](https://doi.
 
 ### Additional files
 
-### [**QCs Interactive heatmap in POSITIVE Ionization Mode**](/img/heatmap_plot_Qcs_pos.html)
+### [**QCs Interactive heatmap in POSITIVE Ionization Mode**](/img/heatmap_plot_QCs_pos.html)
 
-### [**QCs Interactive heatmap in NEGATIVE Ionization Mode**](/img/heatmap_plot_Qcs_neg.html)
+### [**QCs Interactive heatmap in NEGATIVE Ionization Mode**](/img/heatmap_plot_QCs_neg.html)
 <!-- tocstop -->
 
 
