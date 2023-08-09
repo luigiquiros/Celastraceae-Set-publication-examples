@@ -39,6 +39,11 @@ Raw Data are available in the the MassIVE repository [MSV000087970](https://doi.
 
 ## Publication interactive images
 
+### Fig 2c [**Celastraceae Set Interactive PCA in POSITIVE Ionization Mode**](/img/Set_pos_pca_plot.html)
+
+### Fig 2d [**Celastraceae Set Interactive PCA in NEGATIVE Ionization Mode**](/img/Set_neg_pca_plot.html)
+
+
 ### Fig 3 [**Celastraceae Set Interactive Sunburstplot in POSITIVE Ionization Mode**](/img/Celastraceae_sunburst_pos.html)
 
 ### Fig 3 [**Celastraceae Set Interactive Sunburstplot in NEGATIVE Ionization Mode**](/img/Celastraceae_sunburst_neg.html)
@@ -47,6 +52,12 @@ Raw Data are available in the the MassIVE repository [MSV000087970](https://doi.
 
 ### Fig 3 [**Chemical Class Cnnotation Coverage in POSITIVE Ionizatio Mode**](/img/Chemical_class_Celastraceae.html)
 
+
+### Additional files
+
+### [**QCs Interactive heatmap in POSITIVE Ionization Mode**](/img/heatmap_plot_Qcs_pos.html)
+
+### [**QCs Interactive heatmap in NEGATIVE Ionization Mode**](/img/heatmap_plot_Qcs_neg.html)
 <!-- tocstop -->
 
 
