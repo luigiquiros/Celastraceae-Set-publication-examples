@@ -48,7 +48,7 @@ Raw Data are available in the the MassIVE repository [MSV000087970](https://doi.
 
 ### Fig 4b [**Celastraceae Set Interactive Sunburstplot in NEGATIVE Ionization Mode**](/img/Celastraceae_sunburst_neg.html)
 
-### Fig 4c [**Celastraceae Family Interactive Sunburstplot of reported compounds**](/img/Celastraceae_Family_treemap_pos.html)
+### Fig 4c [**Celastraceae Family Interactive Sunburstplot of reported compounds**](/img/Celastraceae_Family_sunburst_pos.html)
 
 
 ### Fig 5a [**TMAP Visualization of Annotation Coverage in POSITIVE Ionization Mode**](/img/Celastraceae_annotation_vs_lotusdnp_tmap_2.html)
