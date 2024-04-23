@@ -39,14 +39,28 @@ Raw Data are available in the the MassIVE repository [MSV000087970](https://doi.
 
 ## Publication interactive images
 
-### Fig 3 [**Celastraceae Set Interactive Sunburstplot in POSITIVE Ionization Mode**](/img/Celastraceae_sunburst_pos.html)
+### Fig 2c [**Celastraceae Set Interactive PCA in POSITIVE Ionization Mode**](/img/Set_pos_pca_plot.html)
 
-### Fig 3 [**Celastraceae Set Interactive Sunburstplot in NEGATIVE Ionization Mode**](/img/Celastraceae_sunburst_neg.html)
+### Fig 2d [**Celastraceae Set Interactive PCA in NEGATIVE Ionization Mode**](/img/Set_neg_pca_plot.html)
 
-### Fig 4.A [**TMAP Visualization of Annotation Coverage in POSITIVE Ionization Mode**](/img/Celastraceae_annotation_vs_lotusdnp_tmap_2.html)
 
-### Fig 3 [**Chemical Class Cnnotation Coverage in POSITIVE Ionizatio Mode**](/img/Chemical_class_Celastraceae.html)
+### Fig 4a [**Celastraceae Set Interactive Sunburstplot in POSITIVE Ionization Mode**](/img/Celastraceae_sunburst_pos.html)
 
+### Fig 4b [**Celastraceae Set Interactive Sunburstplot in NEGATIVE Ionization Mode**](/img/Celastraceae_sunburst_neg.html)
+
+### Fig 4c [**Celastraceae Family Interactive Sunburstplot of reported compounds**](/img/Celastraceae_Family_sunburst_pos.html)
+
+
+### Fig 5a [**TMAP Visualization of Annotation Coverage in POSITIVE Ionization Mode**](/img/Celastraceae_annotation_vs_lotusdnp_tmap_2.html)
+
+### Fig 5b [**Chemical Class Cnnotation Coverage in POSITIVE Ionizatio Mode**](/img/Chemical_class_Celastraceae.html)
+
+
+### Additional files
+
+### [**QCs Interactive heatmap in POSITIVE Ionization Mode**](/img/heatmap_plot_QCs_pos.html)
+
+### [**QCs Interactive heatmap in NEGATIVE Ionization Mode**](/img/heatmap_plot_QCs_neg.html)
 <!-- tocstop -->
 
 
